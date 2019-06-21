@@ -1,0 +1,37 @@
+{
+    "ronda": {
+        "name": "A Ronda Noturna",
+        "author": "Rembrandt",
+        "description": "A Ronda Noturna ou A Ronda da Noite (em neerlandês: De Nachtwacht ) é uma pintura a óleo sobre tela do pintor neerlandês Rembrandt, pintada entre 1639 e 1642. A pintura mede 380 cm de altura e 454 cm de largura e mostra a Guarda Cívica de Amsterdã sob comando do capitão Frans Banning Cocq. Geralmente considerada como a magnum opus de Rembrandt, A Ronda Noturna é uma das pinturas mais conhecidas do Barroco. A peça é de propriedade do município de Amsterdã e faz parte da exposição permanente do Rijksmuseum, principal museu especializado em pintura neerlandesa.",
+        "authorPhoto": "rembrant",
+        "source": "https://pt.wikipedia.org/wiki/A_Ronda_Noturna"
+    },
+    "abaporu": {
+        "name": "Abaporu",
+        "author": "Tarsila do Amaral",
+        "description": "Abaporu é uma pintura a óleo da artista brasileira Tarsila do Amaral. É uma das principais obras do período antropofágico do movimento modernista no Brasil. Hoje é a tela brasileira mais valorizada no mercado mundial das artes, com valor estimado de US$ 40 milhões. Foi comprada pelo colecionador argentino Eduardo Costantini por US$ 2,5 milhões, em 1995 em um leilão realizado na Christies. Anteriormente pertencia ao empresário brasileiro Raul Forbes desde 1985. Atualmente, a obra encontra-se exposta no Museu de arte latino-americana de Buenos Aires (MALBA).",
+        "authorPhoto": "tarsila",
+        "source": "https://pt.wikipedia.org/wiki/Abaporu"
+    },
+    "venus": {
+        "name": "O Nascimento de Vênus",
+        "author": "Sandro Botticelli",
+        "description": "O Nascimento de Vênus é uma pintura de Sandro Botticelli, encomendada por Lorenzo di Pierfrancesco de Médici para a Villa Medicea di Castello.[1]e de têmpera sobre tela e mede 172,5 cm de altura por 278,5 cm de largura.",
+        "authorPhoto": "botticelli",
+        "source": "https://pt.wikipedia.org/wiki/A_Persist%C3%AAncia_da_Mem%C3%B3ria"
+    },
+    "liberdade": {
+        "name": "A Liberdade Guiando o Povo",
+        "author": "Eugène Delacroix",
+        "description": "A Liberdade guiando o povo (em francês: La Liberté guidant le peuple) é uma pintura de Eugène Delacroix em comemoração à Revolução de Julho de 1830, com a queda de Carlos X. Uma mulher representando a Liberdade, guia o povo por cima dos corpos dos derrotados, empunhando a bandeira tricolor da Revolução francesa em uma mão e brandindo um mosquete com baioneta na outra.[1] A pintura é talvez a obra mais conhecida de Delacroix.",
+        "authorPhoto": "eugene",
+        "source": "https://pt.wikipedia.org/wiki/A_Liberdade_guiando_o_povo"
+    },
+    "monalisa": {
+        "name": "Mona Lisa",
+        "author": "Leonardo da Vinci",
+        "description": "Mona Lisa (\"Senhora Lisa\") também conhecida como A Gioconda[3] (em italiano: La Gioconda , \"a sorridente\"; em francês, La Joconde) ou ainda Mona Lisa del Giocondo (\"Senhora Lisa esposa de Giocondo\") é a mais notável e conhecida obra de Leonardo da Vinci, um dos mais eminentes homens do Renascimento italiano.",
+        "authorPhoto": "leonardo",
+        "source": "https://pt.wikipedia.org/wiki/Mona_Lisa"
+    }
+}
